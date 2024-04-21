@@ -1,0 +1,27 @@
+.light {
+    --wdj-color: #213547;
+    --wdj-bgc:#ffffff;
+    --wdj-link: #747bff;
+    --wdj-btn:#f9f9f9;
+    --wdj-n: #213547;
+
+
+
+
+}
+.dark {
+    --wdj-color:#ffffffdd;
+    --wdj-bgc:#242424;
+    --wdj-link: #747bff;
+    --wdj-btn:#1a1a1a;
+    --wdj-n: #213547;
+
+
+
+    
+}
+/* 通用 */
+:root {
+    --wdj-bgc-c1:rgba(59, 59, 59, 0.3);
+    --wdj-bgc-c2:#409eff;
+}
